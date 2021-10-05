@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script src="ruffle.js"></script>
+<embed src="game.swf" width="550" height="400"></embed>
+</body>
+</html>
